@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Shabukichoo - shabukichoo.com.vn - Nhà hàng chuyên về Lẩu và các món ăn Việt - Nhật
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Shabu Kichoo <https://shabukichoo.com.vn/>`_ là nhà hàng chuyên về Lẩu và các món ăn Việt - Nhật. Nhà hàng có 9 loại lẩu, đặc biệt có lẩu chay lẩu Nhân Sâm Kichoo, lẩu Nấm Zukizaki, lẩu Uyên Ương và lẩu Rong Biển. Ngoài ra, lẩu Nhân Sâm Kichoo (còn gọi là Lẩu Bổ Dưỡng) có nhân sâm tươi cung cấp nhiều nguồn năng lượng quý báu như: tăng sinh lực, tăng trí nhớ, bảo vệ cơ thể chống stress, chống lão hóa, tăng sức đề kháng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: Tôn Dật Tiên, Quận 7, HCM 
 
-   This project is under active development.
+Website: https://shabukichoo.com.vn/
 
-Contents
---------
+Hotline: 028 2222 3868 
 
-.. toctree::
+Gmail: shabukichoo.infor@gmail.com. 
 
-   usage
-   api
+#shabukichoo #lauvietnhat #launhansam #nhahangnhat #nhahanglauvietnhat 
